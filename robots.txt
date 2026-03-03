@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kursavai-visitka1313.github.io/kursavai.github.io/sitemap.xml
